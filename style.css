@@ -1,0 +1,17 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.outer{
+    height: 100vh;
+    width: 100vw;
+    background-color: #9da52a;
+}
+#main{
+    padding-left: 36%;
+    display: inline-block;
+    padding-top: 20%;
+    text-transform: uppercase;
+
+}
